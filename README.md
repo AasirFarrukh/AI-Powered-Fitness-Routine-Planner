@@ -49,6 +49,8 @@ The system enables users to receive **context-aware exercise recommendations** a
 ## 📸 Preview
 <img width="1893" height="915" alt="UI" src="https://github.com/user-attachments/assets/7fd1b906-0d55-40af-9cea-069a54d24b99" />
 
+---
+
 ## 📄 References
 Covered in Proposal.pdf:
 - AI in fitness development
@@ -56,6 +58,8 @@ Covered in Proposal.pdf:
 - AI-powered trainers & guides
 - Pose estimation & real-time feedback
 - GPT-4 in exercise prescription
+
+---
 
 ## 👨‍💻 Authors
 Aasir Farrukh – i210375@nu.edu.pk
